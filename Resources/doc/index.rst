@@ -9,8 +9,8 @@ supports the `ORM`_ (MySQL, PostgreSQL, SQLite, etc.).
 Installation
 ------------
 
-In Symfony 4 or higher applications that use `Symfony Flex`_, open a command
-console, enter your project directory and run the following command:
+In Symfony 4 applications that also use `Symfony Flex`_, open a command console,
+enter your project directory and run the following command:
 
 .. code-block:: terminal
 
@@ -18,8 +18,8 @@ console, enter your project directory and run the following command:
 
 That's all! You can skip to the next section and start writing fixtures.
 
-In Symfony 3 applications (or when not using Symfony Flex), run this other
-command instead:
+In Symfony 4 applications not using Symfony Flex and in Symfony 3 applications,
+run this other command instead:
 
 .. code-block:: terminal
 
